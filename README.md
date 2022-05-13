@@ -1,3 +1,7 @@
+# my-money-app React Build - React and Firebase (8)
+
+This is a my-money-app build with React, React Hooks, and Firebase (8) using Firebase Auth and Firestore database.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
